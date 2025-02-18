@@ -1,0 +1,21 @@
+.titulo {
+    background-color: aquamarine;
+    text-align: center;
+}
+#parrafo {
+    font-size: x-large;
+    text-align: center;
+}
+
+#foro{ 
+    font-size: x-large;
+    background-color: blueviolet;
+    margin-left: 230px;
+}
+
+label {
+    background-color: aqua;
+    text-align: center;
+    font-size: x-large;
+    margin-left: 300px;
+}
